@@ -1,0 +1,2 @@
+alert("Hello Everyone!👋\nWelcome to my Marvelous project\n WhatsApp Clone I hope you are doing well👌 This project is for you and my further experience in coding field, this project is one of the best project I have ever made in my life, as I took a long time doing it, This project took 4-5 days working on it, i worked hard alot to keep you entertained");
+alert("🤖FEATURES:🤖\n\n1: CHATS\n2: STATUS\n3: VIEW STATUS\n4: VIEW PROFILE PICTURE\n5: CHAT WITH PEOPLE");
